@@ -10,3 +10,4 @@ edit file
 from ja
 fa
 ha
+change from new
