@@ -16,4 +16,9 @@ anotehr cahbeg
 chaneg tes origin aaa
 from test 3
 change b_o_master
+
+a change branc, rem ori
+a change
+=======
 edit from maon
+
